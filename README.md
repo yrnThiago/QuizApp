@@ -1,2 +1,2 @@
 # QuizApp
-Aprendendo a usar Vue 3.
+Projeto simples para aprimorar minha prática com Vue
